@@ -1,0 +1,19 @@
+body {
+    width: 600px;
+    height: 200px;
+    overflow-y: auto;
+    background-color: rgb(95, 161, 218);
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    display: flex;
+    /* overflow-y: auto;  */
+    margin: auto 20px;
+    font-size: 22px;
+    color: rgb(15, 15, 22);
+    border-radius: 6px;
+    border: 1px solid lightblue;
+    padding: 20px;
+}
